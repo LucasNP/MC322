@@ -1,7 +1,20 @@
-# MC322
+# MC322 - Laboratórios Individuais #
 
+## Estrutura de Arquivos e Pastas ##
 
-# Lucas Nogueira Roberto
+```
+├── README.md  <- apresentação do aluno
+│
+├── lab01      <- primeiro lab
+│
+├── lab02      <- segundo lab
+│
+├── lab03     <- terceiro lab
+│
+```
 
+## Aluno ##
+> Lucas Nogueira Roberto
 
-# Engenharia de Computação
+## Curso ##
+> Engenharia de Computação
