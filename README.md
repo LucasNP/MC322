@@ -14,7 +14,7 @@
 ```
 
 ## Aluno ##
-> Lucas Nogueira Roberto
+- Lucas Nogueira Roberto
 
 ## Curso ##
-> Engenharia de Computação
+- Engenharia de Computação
