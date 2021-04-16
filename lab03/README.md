@@ -1,4 +1,4 @@
-# Lab03 - Jogo Resta 1 #
+# Lab04 - Jogo Resta 1 #
 
 Estrutura de pastas:
 
