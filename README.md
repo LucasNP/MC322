@@ -11,6 +11,8 @@
 │
 ├── lab03     <- terceiro lab
 │
+├── lab04     <- terceiro lab
+│
 ```
 
 ## Aluno ##
