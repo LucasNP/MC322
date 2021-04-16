@@ -25,21 +25,21 @@ popular Jogo Resta 1
 
 
 ## Arquivo Main Java do Resta 1 ##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/Main.java)
  
 ## Arquivo Java da Classe AppRestaUm ##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/AppRestaUm.java)
 
 ## Arquivo Java da Classe Tabuleiro ##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/Tabuleiro.java)
  
 ## Arquivo Java da Classe Peca ##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/Peca.java)
 
 ## Arquivo Java da Classe CSVReader##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/CSVReader.java)
 
 ## Arquivo CSV com os comandos de movimentos ##
-> [link]()
+> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/comandos.csv)
 
 
