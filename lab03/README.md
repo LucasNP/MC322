@@ -1,29 +1,45 @@
-# Lab03 - Lombriga no Aquário #
+# Lab03 - Jogo Resta 1 #
 
 Estrutura de pastas:
 
 ```
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── notebook   <- arquivos do notebook
 │
 └── src <- pasta de arquivos fonte Java (.java)
 |   │
 |   └── mc322 <- raiz do seu pacote
 |       │
-|       └── lab03 <- arquivos fonte .java (feitos no eclipse ou equivalente)
+|       └── lab04 <- arquivos fonte .java (feitos no eclipse ou equivalente)
 │
 └── bin <- pasta de arquivos binários Java (.class)
    │
    └── mc322 <- raiz do seu pacote
        │
-       └── lab03 <- arquivos binários .class
+       └── lab04 <- arquivos binários .class
 
 ```
 
-## Notebook sobre Lombriga no Aquário ##
-> [link](https://github.com/LucasNP/MC322/blob/main/lab03/notebook/lab-lombriga-ra182553.ipynb)
+Código em Java que lê dados de um CSV e por meio de classes cria e jogar o
+popular Jogo Resta 1
 
-## Arquivos Java sobre Lombriga no Aquário ##
-> [link](https://github.com/LucasNP/MC322/blob/main/lab03/src/mc322/lab03/AppLab03.java)
+
+## Arquivo Main Java do Resta 1 ##
+> [link]()
+ 
+## Arquivo Java da Classe AppRestaUm ##
+> [link]()
+
+## Arquivo Java da Classe Tabuleiro ##
+> [link]()
+ 
+## Arquivo Java da Classe Peca ##
+> [link]()
+
+## Arquivo Java da Classe CSVReader##
+> [link]()
+
+## Arquivo CSV com os comandos de movimentos ##
+> [link]()
+
 
