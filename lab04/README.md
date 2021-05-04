@@ -5,6 +5,7 @@ Estrutura de pastas:
 ```
 ├── README.md  <- arquivo apresentando a tarefa
 │
+└── data
 │
 └── src <- pasta de arquivos fonte Java (.java)
 |   │
