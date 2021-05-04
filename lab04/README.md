@@ -40,6 +40,6 @@ popular Jogo Resta 1
 > [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/CSVReader.java)
 
 ## Arquivo CSV com os comandos de movimentos ##
-> [link](https://github.com/LucasNP/MC322/blob/main/lab04/src/mc322/lab04/comandos.csv)
+> [link](https://github.com/LucasNP/MC322/tree/main/lab04/data)
 
 
